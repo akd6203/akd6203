@@ -4,7 +4,7 @@ and other effective IT Strategies. My greatest strength is dedication, which ena
 life complex problems effectively.
 
 - 🔭 I’m currently working on full stack web development using HTML5, JS, Python and Django
-- 🌱 I’m currently learning Angular JS
+- 🌱 I’m currently learning Node JS
 - 👯 I’m looking to collaborate on YouTube
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about responsive Web Designing and Web Development using HTML5 and Python.
